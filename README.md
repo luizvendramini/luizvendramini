@@ -39,4 +39,3 @@
 
 ![Followers](https://img.shields.io/github/followers/luizvendramini?label=Followers&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)
 
-Veja o histórico completo de contribuições diretamente no [meu perfil](https://github.com/luizvendramini).
