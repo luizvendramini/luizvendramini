@@ -1,7 +1,8 @@
 ### Olá, eu sou o Luiz 👋
+
 ## QA Automation Senior — testes automatizados Web & Mobile
 
-- 🔍 Especialista em automação de testes para aplicações Web e Mobile, com foco em qualidade, estabilidade de suíte e manutenção do código.
+- 🔍 Atuo com testes manuais e automatizados para aplicações Web, Android e iOS, cobrindo testes funcionais, regressivos, exploratórios, de aceitação e performance.
 - 🧱 Sigo o padrão Page Object Model e princípios de Clean Code para manter os testes reutilizáveis, independentes e fáceis de escalar.
 - ⚙️ Testes integrados a pipelines de CI/CD, priorizando cenários determinísticos e feedback rápido.
 - 🌱 Sempre estudando novas ferramentas e boas práticas de QA para trazer mais confiabilidade aos times em que atuo.
@@ -9,16 +10,27 @@
 
 ---
 
-### 🧰 Stack principal
+### 🧪 Automação & Performance
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+
+### 🔁 CI/CD & Versionamento
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🗂️ Gestão & Documentação
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats
