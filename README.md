@@ -1,4 +1,6 @@
->### Olá, eu sou o Luiz 👋
+>
+
+### Olá, eu sou o Luiz 👋
 
 ## QA Automation Senior — testes automatizados Web & Mobile
 
@@ -35,8 +37,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luizvendramini&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvendramini&layout=compact&hide_border=true" />
-</p>
+![Followers](https://img.shields.io/github/followers/luizvendramini?label=Followers&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)
 
+Veja o histórico completo de contribuições diretamente no [meu perfil](https://github.com/luizvendramini).
